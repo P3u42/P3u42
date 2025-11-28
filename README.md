@@ -7,7 +7,8 @@
 
 - 🔭 Hoje trabalho como professor de Jogos Digitais pelo SENAI
 - 🌱  Estudando Algoritmos genéticos 
-- 👯 Busco colaborar com Game design 
+- 👯 Busco colaborar com Game design
+  
 [![Pedro Paz's GitHub stats](https://github-readme-stats.vercel.app/api?username=P3u42)](https://github.com/anuraghazra/github-readme-stats)
 
 
