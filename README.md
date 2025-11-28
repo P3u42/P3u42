@@ -3,7 +3,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 Hoje trabalho como professor de Jogos Digitais pelo SENAI
 - 🌱  Estudando Algoritmos genéticos 
