@@ -9,7 +9,7 @@
 - 🌱  Estudando Algoritmos genéticos 
 - 👯 Busco colaborar com Game design e educação
   
-[![Pedro Paz's GitHub stats](https://github-readme-stats.vercel.app/api?username=P3u42)](https://github.com/anuraghazra/github-readme-stats)]
+
 
 
 <div style="display: inline_block"><br>
